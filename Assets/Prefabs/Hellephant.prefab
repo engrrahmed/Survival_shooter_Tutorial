@@ -19,7 +19,7 @@ GameObject:
   - 114: {fileID: 11400004}
   m_Layer: 9
   m_Name: Hellephant
-  m_TagString: Untagged
+  m_TagString: Hellephant
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -240,7 +240,7 @@ MonoBehaviour:
   startingHealth: 300
   currentHealth: 0
   sinkSpeed: 2.5
-  scoreValue: 50
+  scoreValue: 500
   deathClip: {fileID: 8300000, guid: 8c615fd0429f34edf85539d70279360d, type: 3}
 --- !u!114 &11400004
 MonoBehaviour:
@@ -250,7 +250,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 100000}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 94f6618a0da65fa45b24d5105d5d8422, type: 3}
+  m_Script: {fileID: 11500000, guid: 67d8649092d294919be25ae7dccf606e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
 --- !u!135 &13500000

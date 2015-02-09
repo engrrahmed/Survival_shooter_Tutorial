@@ -54,6 +54,7 @@
 'Assets/Scripts/Enemy/EnemyAttack.cs'
 'Assets/Scripts/Enemy/EnemyHealth.cs'
 'Assets/Scripts/Enemy/EnemyMovement.cs'
+'Assets/Scripts/Enemy/EnemyMovement1.cs'
 'Assets/Scripts/Managers/EnemyManager.cs'
 'Assets/Scripts/Managers/GameOverManager.cs'
 'Assets/Scripts/Managers/ScoreManager.cs'
